@@ -1,0 +1,50 @@
+*{ 
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-image: url(https://themewagon.github.io/eflyer/images/banner-bg.png)repeat;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+  
+    
+}
+.web-design{
+    background-color: orange;
+}
+.Arshad{
+    display: flex;
+    margin-left: 350px;
+    background-color: black;
+    height: auto;
+    width: 650px;
+    padding: 10px;
+    font-size: 16px;
+    border-bottom-right-radius:30%;
+    border-bottom-left-radius: 30%;
+    
+    
+}
+.Arshad a{
+    margin-left: 40px;
+    text-decoration: none;
+}
+.Arshad1{
+    text-align: center;
+    margin-top: 30px;
+}
+nav{
+    margin-top: 30px;
+    background-color: none;
+}
+.carousel{
+    text-align: center;
+}
+.container-fluid{
+    background-color: orange;
+}
+.carousel-item img{
+    height: 300px;
+    width: 250px;
+    margin-left: 150px;
+}
